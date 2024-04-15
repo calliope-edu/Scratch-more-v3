@@ -168,6 +168,7 @@ const MbitMoreButtonName = {
     P0: 'P0',
     P1: 'P1',
     P2: 'P2',
+    P3: 'P3',
     A: 'A',
     B: 'B',
     LOGO: 'LOGO'
@@ -184,6 +185,7 @@ const MbitMoreButtonID = {
     100: 'P0',
     101: 'P1',
     102: 'P2',
+    103: 'P3',
     121: 'LOGO'
 };
 
@@ -195,7 +197,8 @@ const MbitMoreButtonID = {
 const MbitMoreButtonPinIndex = {
     P0: 0,
     P1: 1,
-    P2: 2
+    P2: 2,
+    P3: 3
 };
 
 /**
@@ -209,7 +212,8 @@ const MbitMoreButtonStateIndex = {
     P2: 2,
     A: 3,
     B: 4,
-    LOGO: 5
+    LOGO: 5,
+    P3: 6
 };
 
 /**
@@ -1798,6 +1802,10 @@ class MbitMoreBlocks {
             {
                 text: 'P2',
                 value: MbitMoreButtonName.P2
+            },
+            {
+                text: 'P3',
+                value: MbitMoreButtonName.P3
             }
         ];
     }
