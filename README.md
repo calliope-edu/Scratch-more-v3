@@ -1,19 +1,5 @@
 <h1 align="center">MicroBit More v2</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2.5-blue.svg?cacheSeconds=2592000" />
-  <a href="https://microbit-more.github.io/mbit-more-v2" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/microbit-more/mbit-more-v2/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/microbit-more/mbit-more-v2/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/microbit-more/mbit-more-v2" />
-  </a>
-</p>
-<p>
-  <img alt="work with micro:bit v1 and v2" src="https://cdn.sanity.io/images/ajwvhvgo/production/17d9277789c6f781092ee9c2f6993b0457c6ce94-1454x421.png" height="48">
-</p>
+
 
 > Full-functional extension of micro:bit for Scratch3
 
@@ -27,16 +13,7 @@ Open a Scratch3-Mod application ✨ [Microbit More](https://microbit-more.github
 You don't need to run [Scratch Link](https://scratch.mit.edu/microbit) when your browser is Chrome, Edge or 'Web Bluetooth API' supporting browser (the browser in Chromebook, [Scrub](https://apps.apple.com/jp/app/scrub-web-browser/id1569777095) in iPadOS, like that).
 
 
-## How to Use in Xcratch
 
-This extension can be used with other extension in [Xcratch](https://xcratch.github.io/). 
-1. Open [Xcratch Editor](https://xcratch.github.io/editor)
-2. Click 'Add Extension' button
-3. Select 'Extension Loader' extension
-4. Type the module URL in the input field 
-```
-https://microbit-more.github.io/dist/microbitMore.mjs
-```
 
 ## Author
 
