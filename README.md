@@ -1,9 +1,9 @@
-<h1 align="center">MicroBit More v2</h1>
+<h1 align="center">Calliope mini More v3</h1>
 
 
-> Full-functional extension of micro:bit for Scratch3
+> Full-functional extension of Calliope mini 3 for Scratch3
 
-This is an extension for [Scratch3 by MIT](https://scratch.mit.edu/). You can code using all sensors and pins on micro:bit with normal Scratch3 blocks on this app.
+This is an extension for [Scratch3 by MIT](https://scratch.mit.edu/). You can code using all sensors and pins on Calliope mini with normal Scratch3 blocks on this app.
 
 
 ## What You Can Do With This Extension
@@ -21,10 +21,6 @@ You don't need to run [Scratch Link](https://scratch.mit.edu/microbit) when your
 
 * Website: http://www.yengawa.com/
 * Github: [@yokobond](https://github.com/yokobond)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/microbit-more/mbit-more-v2/issues). You can also take a look at the [contributing guide](https://github.com/microbit-more/mbit-more-v2/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
